@@ -1,3 +1,4 @@
+/* This file adds a editor menu in Windows->Gizmos to enable/disable all the gizmo checkmarks*/
 using UnityEditor;
  using System;
  using System.Reflection;
